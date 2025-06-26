@@ -3,8 +3,8 @@
 #include <Wire.h>
 #include <MPU6050.h>
 
-const char* ssid = "Realme 6";
-const char* password = "123456789";
+const char* ssid = "your_wifi_name";
+const char* password = "your_wifi_password";
 
 ESP8266WebServer server(80);
 MPU6050 mpu;
