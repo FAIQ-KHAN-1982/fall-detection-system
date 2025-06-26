@@ -1,0 +1,7 @@
+YOLOv8 Fall Detection Using Laptop Webcam:
+
+1. Open the code and replace the model path with your trained YOLOv8 model (e.g., best.pt).
+
+2. Run the script — it will start fall detection using your laptop’s webcam.
+
+3. The detection will run in real time, and any fall detected will be processed according to the logic defined in the code.
