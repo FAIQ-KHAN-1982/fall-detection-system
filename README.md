@@ -26,3 +26,6 @@ This system connects an IP camera to a mobile app. The YOLOv8 model runs on a lo
 - Muhammad Faiq
 - Hashir Ahmad Khan
 - Umar Bin Muslim
+- Mr. Wisal Zafar (supervisor)
+
+  
