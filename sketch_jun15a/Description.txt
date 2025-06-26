@@ -1,0 +1,15 @@
+ESP8266 NodeMCU Code Instructions (Version 1.0):
+
+1. Open the code and replace the placeholders with your Wi-Fi name (SSID) and Wi-Fi password.
+
+2. Upload the code to your ESP8266 NodeMCU board using the Arduino IDE.
+
+3. After uploading, open the Serial Monitor.
+
+4. Once connected to Wi-Fi, the device will display an IP address in the Serial Monitor.
+
+5. This IP address is used by the system to send fall detection alerts.
+
+6. set baud rate to 115200 (check the code if the baud rate is written the same).
+
+7. search for that IP in the browser and you can see the fall and nofall status.
