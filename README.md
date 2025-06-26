@@ -22,7 +22,7 @@ This system connects an IP camera to a mobile app. The YOLOv8 model runs on a lo
 - `flutter_app/` – Flutter mobile app
 
 
-## 👨‍💻 Authors
-- Muhammad Faiq (Final Year Project 2025)
+## 👨‍💻 Authors (Final Year Project 2025)
+- Muhammad Faiq
 - Hashir Ahmad Khan
 - Umar Bin Muslim
