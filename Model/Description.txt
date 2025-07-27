@@ -1,0 +1,23 @@
+YOLOv8 Model Training Summary:
+
+We trained our custom dataset using the YOLOv8m model with the following settings:
+
+Epochs: 60
+
+Batch Size: 4
+
+Image Size: 640
+
+Device: 0 (GPU) (ZOTAC RTX 4060 8GB)
+
+We used the following command in the terminal to start training:
+
+yolo detect train model=yolov8m.pt data=C:/Users/xxxx/xxxx/xxxx/data.yaml epochs=60 batch=4 imgsz=640 device=0
+
+After training, two model files were generated:
+
+best.pt – the model with the best performance on the validation set
+
+last.pt – the final model from the last epoch
+
+These models can now be used for fall detection.
