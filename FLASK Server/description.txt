@@ -1,0 +1,10 @@
+Flask Server – Fall Detection Instructions:
+
+1. Open the Flask server code.
+
+2. Replace the placeholder with your IP camera's RTSP or HTTP stream URL.
+
+3. Run the script — it will start detecting falls in real time using the camera feed.
+
+4. If a fall is detected and persists for 3 seconds (you can change this duration in the code),
+a screenshot will be saved automatically in the current directory.
