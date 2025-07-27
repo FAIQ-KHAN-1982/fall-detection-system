@@ -8,3 +8,5 @@ Flask Server – Fall Detection Instructions:
 
 4. If a fall is detected and persists for 3 seconds (you can change this duration in the code),
 a screenshot will be saved automatically in the current directory.
+
+5. and also give path to your (best.pt) trained model.
